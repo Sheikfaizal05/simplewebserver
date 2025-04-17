@@ -143,8 +143,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 Refer to the following image to view the output of the program.
+![image](https://github.com/user-attachments/assets/39c0033d-519a-42e5-b24f-cdba97f83f76)
 
-![WebOutput](WebOutput.png)
 
 Terminal
 
