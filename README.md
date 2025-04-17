@@ -148,7 +148,8 @@ Refer to the following image to view the output of the program.
 
 Terminal
 
-![Terminal](Terminal.png)
+![image](https://github.com/user-attachments/assets/b14acfd9-ec7c-4669-8784-40a2f445efb9)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
